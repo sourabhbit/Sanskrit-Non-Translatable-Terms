@@ -13,5 +13,5 @@
 ### Links
 * [https://rajivmalhotra.com/wp-content/uploads/2013/09/SanskritNonTranslatables.pdf](https://rajivmalhotra.com/wp-content/uploads/2013/09/SanskritNonTranslatables.pdf)
 ### Related Books
-### Scholarss
+### Scholars
 ### Others

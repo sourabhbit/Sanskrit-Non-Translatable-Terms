@@ -1,0 +1,20 @@
+{
+"sanskrit": "\u0928\u093e\u0938\u094d\u0924\u093f\u0915",
+ "other": {},
+ "itrans": "nAstika",
+ "links": ["https://en.wikipedia.org/wiki/Atheism",
+ "https://en.wikipedia.org/wiki/%C4%80stika_and_n%C4%81stika"],
+ "uses": [],
+ "sources": {},
+ "scholars": [],
+ "eng": "Atheist",
+ "books": [],
+ "diff": {"Atheist": ["Atheists are those who do not belief in the existence of deities.",
+ "Atheism is specifically the position that there are no deities.",
+ "The Veda and Hinduism do not subscribe to or include the concept of an almighty that is separate from oneself i.e. there is no concept of God in the Christian or Islamic sense.",
+ "SAMkhya is both an atheist and Astika (not nAstika) philosophy."],
+ "nAstika": ["The term nAstika is derived from na (\"not\") + asti (\"there is, there exists\"), meaning one who does not believe in the existence (of Vedas).",
+ "As per Manusmriti, nAstika are those who revile \"Vedic literature based on two roots of science of reasoning (\u015aruti and Smriti)\".",
+ "nAstika are those who reject the epistemic authority of the Vedas, the existence of \u0101tman, or those who reject the existence of Ishvara.",
+ "--"]}
+ }
